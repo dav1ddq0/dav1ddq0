@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**dav1ddq0/dav1ddq0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello every1!!! :wave:. I'm David . 
+  - 💻 CS student at [@matcom](https://github.com/matcom).
+  - 🔭 I’m currently working on my Bachelor Thesis about detection of potholes in the road using the sensors of a 📲.
+  - Using 🪟 Windows 11 with WSL2 and 🐧 Ubuntu 22.04 linux distro as my major OS.
+  - 🔓FOSS enthusiast.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,git,docker,python,androidstudio,c,cpp,cs,dart,flutter,bash,linux,css,dotnet,powershell" />
+    </a>
+</p>
+
