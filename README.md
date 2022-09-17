@@ -1,5 +1,3 @@
-### Hi there 
-
 ### Hello every1!!! 👋. I'm David . 
   - 💻 CS student at [@matcom](https://github.com/matcom).
   - 🔭 I’m currently working on my Bachelor Thesis about detection of potholes in the road using the sensors of a 📲.
@@ -13,3 +11,6 @@
     </a>
 </p>
 
+### Stats:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dav1ddq0&show_icons=true&theme=darcula)
