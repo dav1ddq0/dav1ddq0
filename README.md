@@ -1,7 +1,5 @@
 ### Hello every1!!! 👋. I'm David . 
-  - 💻 CS student at [@matcom](https://github.com/matcom).
-  - 🔭 I’m currently working on my Bachelor Thesis about detection of potholes in the road using the sensors of a 📲.
-  - Using 🪟 Windows 11 with WSL2 and 🐧 Ubuntu 22.04 linux distro as my major OS.
+  - 💻 Software developer and computer scientist graduated from MATCOM. [@matcom](https://github.com/matcom).
   - 🔓FOSS enthusiast.
 
 
